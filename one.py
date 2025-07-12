@@ -17,3 +17,6 @@ Floral Fantasia
 We couldn't be happier. Thank you Murjhana and staff!" -Melinda Altshuler. "Did an amazing job on my wedding - better than I ever ...
 Floral Fantasia
 ''')
+a=st.button('baloon')
+if a:
+    st.balloons()
